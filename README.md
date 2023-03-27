@@ -108,3 +108,5 @@ The project can be extended to include more features such as age, gender, and et
 ## 🚀 About Me
 I'm a student ... Currently  studying 3rd year in B.Tech Artificial Intelligence and Data Science..
 
+## ➡ My Repo. 
+* https://github.com/thillairam007/BMI-prediction-using-Facial-Recognition-by-Deep-Computer-Vision
