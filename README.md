@@ -7,8 +7,8 @@ This project is aimed at developing a deep learning-based approach for predictin
 ## ℹData set
 
 * The data set "bmi data set.csv" contains Height,Weight,BMI values for Different Persons Images
-
-* Dataset Download Link : https://drive.google.com/file/d/1tXD4NR9Al4zShpr4O8CVCLpBF94K0KeU/view?usp=share_link
+* It was Manually Developed by me ... It'll update in future with more data
+* Dataset Download Link : https://drive.google.com/file/d/1fEZEG9vFegb1zekIuljdvw1ptJUtQ9qz/view?usp=share_link
 
 
 ## 🎯Methodology
