@@ -109,5 +109,5 @@ The project can be extended to include more features such as age, gender, and et
 I'm Thillairam
 I'm a fresher ... Currently  studying 3rd year in B.Tech Artificial Intelligence and Data Science..This is my first Project in Machine Learning Domain.
 
-## ➡ My Repository
-* https://github.com/thillairam007/BMI-prediction-using-Facial-Recognition-by-Deep-Computer-Vision
+## ➡ My Github Profile
+* https://github.com/thillairam007/
