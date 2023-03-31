@@ -106,6 +106,7 @@ The project can be extended to include more features such as age, gender, and et
 
 * Thillairam A
 ## 🚀 About Me
+I'm Thillairam
 I'm a fresher ... Currently  studying 3rd year in B.Tech Artificial Intelligence and Data Science..This is my first Project in Machine Learning Domain.
 
 ## ➡ My Repository
