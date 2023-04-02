@@ -8,7 +8,7 @@ This project is aimed at developing a deep learning-based approach for predictin
 
 * The data set "bmi data set.csv" contains Height,Weight,BMI values for Different Persons Images
 * It was Manually Developed by me ... It'll update in future with more data
-* Dataset Download Link : https://drive.google.com/file/d/1fEZEG9vFegb1zekIuljdvw1ptJUtQ9qz/view?usp=share_link
+* Dataset Download Link : https://www.kaggle.com/datasets/thillairama/height-weight-bmi-dataset-with-celebrity-faces
 
 
 ## 🎯Methodology
