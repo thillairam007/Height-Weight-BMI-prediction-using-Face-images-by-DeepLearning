@@ -22,7 +22,7 @@ This project is aimed at developing a deep learning-based approach for predictin
 
 ## ✨Usage
 
-To use the model, you need to provide a facial image as input to the system. The system will then process the image using the trained CNN model and output the corresponding BMI value.
+To use the model, you need to provide a facial image as input to the system. The system will then process the image using the trained CNN model and output to the corresponding BMI value.
 ## 🔮Future Work
 
 The project can be extended to include more features such as age, gender, and ethnicity to improve the accuracy of the BMI prediction. Additionally, the model can be deployed as a mobile or web application for real-time BMI prediction from facial images.
