@@ -48,7 +48,7 @@ setup(
         'google-auth-oauthlib==0.4.6',
         'google-pasta==0.2.0',
         'gradio==3.34.0',
-        'grpcio==1.51.3',
+        'grpcio==1.53.0',
         'h11==0.14.0',
         'h5py==3.8.0',
         'httpcore==0.16.3',
