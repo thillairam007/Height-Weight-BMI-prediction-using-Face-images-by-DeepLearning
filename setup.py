@@ -21,7 +21,7 @@ setup(
         'backcall==0.2.0',
         'cachetools==5.3.0',
         'cassandra-driver==3.25.0',
-        'certifi==2022.12.7',
+        'certifi==2023.7.22',
         'charset-normalizer==3.0.1',
         'click==8.1.3',
         'cmake==3.25.2',
